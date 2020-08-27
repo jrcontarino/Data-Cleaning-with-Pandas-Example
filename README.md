@@ -1,2 +1,2 @@
-# homework-0
-My first GitHub repo
+# Data-Cleaning-with-Pandas-Example
+Example of using pandas to clean data using US Census data
